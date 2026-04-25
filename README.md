@@ -1,7 +1,5 @@
 #STAMPEDE PROGNOSIA:Crowd Risk Prediction using Deep Learning Models
 
----
-
 ## Project Title:STAMPEDE PROGNOSIA:Crowd Risk Prediction using Deep Learning Models
 
 The term “Prognosia” is derived from the word prognosis, which refers to the prediction or forecasting of future conditions based on current observations. In this project, Stampede Prognosia represents the prediction of crowd risk levels by analyzing images.
